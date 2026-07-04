@@ -1943,7 +1943,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "3505e042-82f8-4881-a214-6f2ed51b3a90")
+			(uuid "f2f83ec9-e0aa-4c29-b03f-e5310662051a")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1954,7 +1954,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "77721e82-6208-4d7d-ba8f-9d119c832336")
+			(uuid "bd359148-942a-4946-9347-088ec13cb587")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -1979,16 +1979,16 @@
 			(at 0 0)
 			(size 5.5 5.5)
 			(layers "F.Cu" "F.Mask")
-			(uuid "61f5b188-b554-4d5d-bb9f-d02bd5eaa181")
+			(uuid "3d7c6e6d-997f-49ee-aec5-9ae53c369291")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 5.5 5.5)
 			(layers "B.Cu" "B.Mask")
-			(uuid "95423a6b-8816-46d9-8838-205efe79c59f")
+			(uuid "3d7c6e6d-997f-49ee-aec5-9ae53c369291")
 		)
 		(embedded_fonts no)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/Abstandhalter M3 IG-IG 25mm - PA 66, weiß.stp"
+		(model "/home/jecka/Documents/pedale/noise_gate/pedale.pretty/Abstandhalter M3 IG-IG 25mm - PA 66, weiß.stp"
 			(offset
 				(xyz 0 0 12)
 			)
@@ -3172,7 +3172,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "0512f1b7-8720-442d-a447-cd1e1577f55d")
+			(uuid "4528a8df-cfdb-41bf-9164-ec6a548c680b")
 		)
 		(fp_circle
 			(center 0 0)
@@ -3183,7 +3183,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "f61838ed-1c6d-4759-96cc-90d4ab7956b0")
+			(uuid "652aa998-d92b-4e45-b3a5-b62e7097367b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -3208,16 +3208,16 @@
 			(at 0 0)
 			(size 5.5 5.5)
 			(layers "F.Cu" "F.Mask")
-			(uuid "a691f936-ef38-406c-9d22-db3db42f2acb")
+			(uuid "ad8649f4-d63a-42ce-ac31-1caf9dab1c6c")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 5.5 5.5)
 			(layers "B.Cu" "B.Mask")
-			(uuid "60d92018-ae8f-4ca5-963a-fb50a601f5f2")
+			(uuid "ad8649f4-d63a-42ce-ac31-1caf9dab1c6c")
 		)
 		(embedded_fonts no)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/Abstandhalter M3 IG-IG 25mm - PA 66, weiß.stp"
+		(model "/home/jecka/Documents/pedale/noise_gate/pedale.pretty/Abstandhalter M3 IG-IG 25mm - PA 66, weiß.stp"
 			(offset
 				(xyz 0 0 12)
 			)
@@ -5097,7 +5097,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "1db029b6-ef5d-43e7-a41f-5b6b6511420f")
+			(uuid "dd825610-ba2d-4ca1-ab49-e1122b9a26be")
 		)
 		(fp_circle
 			(center 0 0)
@@ -5108,7 +5108,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "45447e44-3c62-4a04-bef6-5d65e2fa32ff")
+			(uuid "b991d522-93cd-4c49-b919-c4748fe76d1b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -5133,16 +5133,16 @@
 			(at 0 0)
 			(size 5.5 5.5)
 			(layers "F.Cu" "F.Mask")
-			(uuid "3a78b14b-ec21-4ee6-be91-cdc60b860a23")
+			(uuid "ce92db99-d591-49fa-bb63-b983599cf09b")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 5.5 5.5)
 			(layers "B.Cu" "B.Mask")
-			(uuid "b7f4ee00-5b7a-4a92-9527-7df1e72b2ae4")
+			(uuid "ce92db99-d591-49fa-bb63-b983599cf09b")
 		)
 		(embedded_fonts no)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/Abstandhalter M3 IG-IG 25mm - PA 66, weiß.stp"
+		(model "/home/jecka/Documents/pedale/noise_gate/pedale.pretty/Abstandhalter M3 IG-IG 25mm - PA 66, weiß.stp"
 			(offset
 				(xyz 0 0 12)
 			)
@@ -5808,7 +5808,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "f244d5bd-dc92-48db-a81f-6a18c96a4e5a")
+			(uuid "66c60f5b-b16a-41db-b601-a85c3f461f96")
 		)
 		(fp_circle
 			(center 0 0)
@@ -5819,7 +5819,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "07fa0fd8-3161-44e4-992f-88576663630d")
+			(uuid "ae9f08a9-f212-43f6-9d25-e8c3c775a789")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -5844,16 +5844,16 @@
 			(at 0 0)
 			(size 5.5 5.5)
 			(layers "F.Cu" "F.Mask")
-			(uuid "910d01e4-5820-4990-b886-4a53b21ffb1e")
+			(uuid "6d602623-9a5e-4756-9a14-5e704adf27b3")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 5.5 5.5)
 			(layers "B.Cu" "B.Mask")
-			(uuid "a0fb09d5-774f-4306-b711-9a3261899b7f")
+			(uuid "6d602623-9a5e-4756-9a14-5e704adf27b3")
 		)
 		(embedded_fonts no)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/Abstandhalter M3 IG-IG 25mm - PA 66, weiß.stp"
+		(model "/home/jecka/Documents/pedale/noise_gate/pedale.pretty/Abstandhalter M3 IG-IG 25mm - PA 66, weiß.stp"
 			(offset
 				(xyz 0 0 12)
 			)
@@ -17706,7 +17706,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "437ea0f8-b3dd-46f8-bc32-ad8576e1a061")
+			(uuid "c2b9d7a1-0029-4124-b2eb-bda2fc12ea0f")
 		)
 		(fp_circle
 			(center 0 0)
@@ -17717,7 +17717,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "8f1bdd2b-8458-4e7d-8bd7-c8de95bcd80a")
+			(uuid "77301f3f-16f0-4e3a-ba19-f5bf3a73ea9a")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -17742,16 +17742,16 @@
 			(at 0 0)
 			(size 5.5 5.5)
 			(layers "F.Cu" "F.Mask")
-			(uuid "37b9bf6f-1c9c-4707-bb30-28dc36d94b8a")
+			(uuid "89dae18b-311d-4293-be95-d9a0f0760961")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 5.5 5.5)
 			(layers "B.Cu" "B.Mask")
-			(uuid "ae2da623-e47b-4765-9247-a0588e85c4e4")
+			(uuid "89dae18b-311d-4293-be95-d9a0f0760961")
 		)
 		(embedded_fonts no)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/Abstandhalter M3 IG-IG 25mm - PA 66, weiß.stp"
+		(model "/home/jecka/Documents/pedale/noise_gate/pedale.pretty/Abstandhalter M3 IG-IG 25mm - PA 66, weiß.stp"
 			(offset
 				(xyz 0 0 12)
 			)
