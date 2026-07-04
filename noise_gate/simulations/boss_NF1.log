@@ -1,0 +1,58 @@
+Circuit: * C:\users\ostoja\Desktop\02_Elektronika\pedale\noise_gate\noise_gate\simulations\boss_NF1.asc
+
+WARNING: Node N004 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by R18.
+WARNING: Less than two connections to node NC_02.  This node is used by R27.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 836.601
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 822.125
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Heightened Def Con from 9.61295e-007 to 9.61342e-007
+Heightened Def Con from 0.0300019 to 0.0300019
+Heightened Def Con from 0.0500019 to 0.0500019
+Heightened Def Con from 0.0500019 to 0.0500019
+Heightened Def Con from 0.0500019 +to 0.0500019
+Heightened Def Con from 0.120001 to 0.120001
+
+Date: Sat Jul 04 10:04:47 2026
+Total elapsed time: 1.989 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 156453
+traniter = 154519
+tranpoints = 47822
+accept = 31902
+rejected = 15927
+matrix size = 168
+fillins = 257
+solver = Normal
+Matrix Compiler1:    1160 opcodes  2.8/[0.9]/1.1
+Matrix Compiler2:    1370 opcodes

@@ -1,0 +1,43 @@
+Circuit: * C:\users\ostoja\Desktop\02_Elektronika\pedale\noise_gate\noise_gate\simulations\boss_NF1_modern_components.asc
+
+WARNING: Less than two connections to node N013.  This node is used by R50.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+vernier = 0.5
+vernier = 0.25
+Gmin = 34.2672
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 33.0995
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 32.9705
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Heightened Def Con from 1.86159 to 1.86159
+
+Date: Sat Jul 04 10:20:46 2026
+Total elapsed time: 5.737 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 651348
+traniter = 649900
+tranpoints = 233057
+accept = 150633
+rejected = 82425
+matrix size = 105
+fillins = 245
+solver = Normal
+Matrix Compiler1:    1075 opcodes  2.3/0.8/[0.9]
+Matrix Compiler2:     945 opcodes

@@ -1,0 +1,64 @@
+Circuit: * C:\users\ostoja\Desktop\02_Elektronika\pedale\noise_gate\noise_gate\simulations\MOSFET_off_switch.asc
+
+WARNING: Node N021 is floating.
+
+WARNING: Less than two connections to node N021.  This node is used by C11.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.5165
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 5.49501
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 5.50104
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Heightened Def Con from 9.61436e-007 to 9.61483e-007
+Heightened Def Con from 9.61695e-007 +to 9.61699e-007
+Heightened Def Con from 9.61703e-007 to 9.61736e-007
+Heightened Def Con from 9.61737e-007 to 9.61877e-007
+Heightened Def Con from 9.61877e-007 to 9.62002e-007
+Heightened Def Con from 9.62003e-007 to 9.62378e-007
+Heightened Def Con from 0.020001 to 0.020001
+Heightened Def Con from 0.020001 to 0.020001
+Heightened Def Con from 0.020001 to 0.020001
+Heightened Def Con from 0.0300019 to 0.0300019
+Heightened Def Con from 0.040001 to 0.040001
+Heightened Def Con from 0.040001 to 0.040001
+Heightened Def Con from 0.040001 to 0.040001
+
+Date: Sat Jul 04 09:21:16 2026
+Total elapsed time: 0.664 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 24811
+traniter = 23054
+tranpoints = 7718
+accept = 4804
+rejected = 2928
+matrix size = 230
+fillins = 803
+solver = Normal
+Thread vector: 8.1/6.6[4] 3.2/4.3[1] 1.5/2.5[1] 0.5/2.4[1]  2592/500
+Matrix Compiler1:    3960 opcodes  7.0/[2.8]/2.9
+Matrix Compiler2:    2330 opcodes

@@ -1414,7 +1414,7 @@
 			)
 		)
 		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
-			(at 0 0 0)
+			(at 0.254 -9.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1468,8 +1468,8 @@
 		)
 		(symbol "top_panel_connector_1_1"
 			(rectangle
-				(start 1.016 2.54)
-				(end -1.016 -2.54)
+				(start -1.016 2.54)
+				(end 1.016 -2.54)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -1500,6 +1500,14 @@
 				)
 				(fill
 					(type none)
+				)
+			)
+			(text "LEFT_POT"
+				(at -6.35 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
 				)
 			)
 			(pin passive line
@@ -1593,6 +1601,14 @@
 					(type none)
 				)
 			)
+			(text "MIDDLE_POT"
+				(at -7.874 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
 			(pin passive line
 				(at 0 6.35 270)
 				(length 3.81)
@@ -1682,6 +1698,14 @@
 				)
 				(fill
 					(type none)
+				)
+			)
+			(text "RIGHT_POT"
+				(at -6.35 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
 				)
 			)
 			(pin passive line
